@@ -139,8 +139,3 @@ h1 {
   width: 100px;
   height: 100px;
 }
-
-.insect.caught {
-  transform: translate(-50%, -50%) scale(0);
-  /* Temporarily add the class caught to the div class="insect" to test */
-}
